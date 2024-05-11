@@ -15,3 +15,8 @@
 .form_button {
   width: 181px;
 }
+
+.form_message_error {
+  font-weight: 500;
+  color: red;
+}
